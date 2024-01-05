@@ -1,1 +1,2 @@
+<?php ?>
 <h1>Subdomain Takeover By MrEhAcKeR</h1>
